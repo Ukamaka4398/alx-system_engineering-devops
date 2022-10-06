@@ -1,2 +1,2 @@
-\no string SCHOOL school deta\n! :mime school 
-file -c -m school.mgc
+\no string SCHOOL school deta\n!:mime school 
+file -C -m school.mgc
